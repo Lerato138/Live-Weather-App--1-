@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "/indexwa.html"
+status = 200
